@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-shadow: 0;
+    box-sizing: border-box;
+}
+
+#adedoyin{
+    display: flex;
+    height: 700px;
+    width: 100%;
+}
+
+
+#about-me{
+    background-color: rgb(111, 228, 150);
+    width: 50%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    padding: 0 50px;
+}
+
+#mawus{
+    background-color: white;
+    width: 50%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 0 50px;
+    flex-direction: column;
+}
+
+#greenside{
+    font-size: 80px;
+}
+
+#green-text{
+    font-size: 25px;
+}
+
+#pixx{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+
+#mini-texts{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#see-more{
+    width: 100px;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    color: aqua;
+    height: 40px;
+    cursor:pointer ;
+}
+
+#link{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(61, 219, 167);
+    color: black;
+    border-radius: 10px;
+    border: none;   
+}
